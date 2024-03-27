@@ -122,7 +122,7 @@
 <p align="center">
   <a href="https://github.com/adishgarg">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adishgarg&theme=radical" alt="Adish Garg's GitHub Contribution"/>
-<img src="https://raw.githubusercontent.com/adishgarg/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/adishgarg/adishgarg/output/snake.svg" alt="Snake animation" />
 
   </a>
 </p>
