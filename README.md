@@ -129,5 +129,8 @@ Intro  -->
   <br/>
 </a>
 
-
 ![Adish's Graph](https://github-readme-activity-graph.vercel.app/graph?username=adishgarg&custom_title=Adish%20Garg's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<p align="center">
+<img src="https://stats.quine.sh/adishgarg/dependencies?theme=dark">
+</p>
