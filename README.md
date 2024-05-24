@@ -17,7 +17,7 @@
 </a>
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71325&random=false&width=435&lines=Hello+there%2C;I+am+Adish+Garg;Welcome+to+my+profile")
-</h1>
+</h1>    
 <!-- 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
