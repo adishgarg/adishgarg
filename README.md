@@ -30,7 +30,7 @@ Intro  -->
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Punjab</b> 」
+    「 I am a full stack web application developer and i m gay from <b>Punjab</b> 」
     <br>
     <br>
   </samp>
